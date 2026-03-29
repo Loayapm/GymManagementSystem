@@ -1,0 +1,26 @@
+# Build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio cache
+.vs/
+
+# Logs
+*.log
+
+# SQL LocalDB files (IMPORTANT)
+*.mdf
+*.ldf
+
+# Packages
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
