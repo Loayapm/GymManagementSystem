@@ -12,30 +12,98 @@ This project was developed as part of my learning journey in software developmen
 
 ## ✨ Features
 
-* 🔐 **User Authentication**
+### 🔐 Login
+- **Login Screen**  
+  ![Login](Screenshots/Login/login1.png)
+- **Login Screen 2**  
+  ![Login](Screenshots/Login/login2.png)
 
-  * Secure login system using password hashing (PBKDF2)
-  * Password change functionality
+### 👥 Coaches
+- **Add Coach**  
+  ![Add Coach](Screenshots/Coaches/add.png)
+- **Edit Coach**  
+  ![Edit Coach](Screenshots/Coaches/edit.png)
+- **Delete Coach**  
+  ![Delete Coach](Screenshots/Coaches/delete.png)
+- **Coaches Table**  
+  ![Coaches Table](Screenshots/Coaches/table.png)
 
-* 👤 **Client Management**
+### 👤 Subscribers
+- **Add Subscriber**  
+  ![Add Subscriber](Screenshots/Subscribers/add.png)
+- **Edit Subscriber**  
+  ![Edit Subscriber](Screenshots/Subscribers/edit.png)
+- **Delete Subscriber**  
+  ![Delete Subscriber](Screenshots/Subscribers/delete.png)
+- **Subscribers Table**  
+  ![Subscribers Table](Screenshots/Subscribers/table.png)
 
-  * Add, update, and search for clients
-  * Store personal and medical information
+### 📅 Attendance
+- **Add Attendance**  
+  ![Add Attendance](Screenshots/Attendance/add.png)
+- **Delete Attendance**  
+  ![Delete Attendance](Screenshots/Attendance/delete.png)
+- **Attendance Table**  
+  ![Attendance Table](Screenshots/Attendance/table.png)
 
-* 💳 **Subscription Management**
+### 💳 Subscriptions
+- **Add Subscription**  
+  ![Add Subscription](Screenshots/Subscriptions/add.png)
+- **Edit Subscription**  
+  ![Edit Subscription](Screenshots/Subscriptions/edit.png)
+- **Delete Subscription**  
+  ![Delete Subscription](Screenshots/Subscriptions/delete.png)
+- **Move Subscription to New Coach**  
+  ![Move to New Coach](Screenshots/Subscriptions/moveToNewCoach.png)
+- **Pause Subscription**  
+  ![Pause Subscription](Screenshots/Subscriptions/pause.png)
+- **Pause Subscription 2**  
+  ![Pause Subscription 2](Screenshots/Subscriptions/pause2.png)
+- **Search Subscriptions**  
+  ![Search Subscriptions](Screenshots/Subscriptions/search.png)
 
-  * Track subscriptions and expiration dates
-  * Alerts for expired memberships
+### 💰 Payments
+- **Add Payment**  
+  ![Add Payment](Screenshots/Payments/add.png)
+- **Edit Payment**  
+  ![Edit Payment](Screenshots/Payments/edit.png)
+- **Delete Payment**  
+  ![Delete Payment](Screenshots/Payments/delete.png)
 
-* 💰 **Payment Tracking**
+### 💸 Payroll Advance
+- **Add Payroll Advance 1**  
+  ![Add Payroll Advance 1](Screenshots/PayrollAdvance/add1.png)
+- **Add Payroll Advance 2**  
+  ![Add Payroll Advance 2](Screenshots/PayrollAdvance/add2.png)
+- **Delete Payroll Advance**  
+  ![Delete Payroll Advance](Screenshots/PayrollAdvance/delete.png)
+- **Payroll Advance Table**  
+  ![Payroll Advance Table](Screenshots/PayrollAdvance/table.png)
 
-  * Record payments and expenses
-  * Monitor financial activity
+### 🩺 Medical Records
+- **Add Medical Record**  
+  ![Add Medical Record](Screenshots/MedicalRecords/add.png)
+- **Edit Medical Record**  
+  ![Edit Medical Record](Screenshots/MedicalRecords/edit.png)
+- **Delete Medical Record**  
+  ![Delete Medical Record](Screenshots/MedicalRecords/delete.png)
+- **Medical Records Table**  
+  ![Medical Records Table](Screenshots/MedicalRecords/table.png)
+### 🛒 Supplies
+- **Add Supply**  
+  ![Add Supply](Screenshots/Supplies/add.png)
+- **Delete Supply**  
+  ![Delete Supply](Screenshots/Supplies/delete.png)
+- **Supplies Table**  
+  ![Supplies Table](Screenshots/Supplies/table.png)
 
-* 📊 **Basic Reporting & Search**
-
-  * Search for clients and payments
-  * View stored records efficiently
+### 📋 Sections
+- **Add Section**  
+  ![Add Section](Screenshots/Sections/add.png)
+- **Edit Section**  
+  ![Edit Section](Screenshots/Sections/edit.png)
+- **Delete Section**  
+  ![Delete Section](Screenshots/Sections/delete.png)
 
 ---
 
