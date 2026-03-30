@@ -25,11 +25,13 @@ namespace WindowsFormsApp1
         public int trainingTypeID = 0;
         bool foundOne = false;
         Client clientToDelete = new Client();
-        const string connectionString = "data source=DESKTOP-T1STQLB;initial catalog=Database1;trusted_connection=true";
+         string connectionString;// = "data source=DESKTOP-T1STQLB;initial catalog=Database1;trusted_connection=true";
         public removeSubscription(List <string> ClientNames)
         {
             InitializeComponent();
             comboBox1.Items.AddRange(ClientNames.ToArray());
+            connectionString = DatabaseConnections.GymDB;
+
         }
 
         private void removeForm_Load(object sender, EventArgs e)

@@ -17,7 +17,7 @@ namespace WindowsFormsApp1
 {
     public partial class pauseSubscription : Form
     {
-        const string connectionString = "data source=DESKTOP-T1STQLB;initial catalog=Database1;trusted_connection=true";
+        string connectionString;// = "data source=DESKTOP-T1STQLB;initial catalog=Database1;trusted_connection=true";
         public string searchQuery = "Select count (*) from Subscriptions where 1=1";
 
         public int clientID = 0;
@@ -31,6 +31,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             comboBox1.Items.AddRange(clientNames.ToArray());
+            connectionString = DatabaseConnections.GymDB;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)

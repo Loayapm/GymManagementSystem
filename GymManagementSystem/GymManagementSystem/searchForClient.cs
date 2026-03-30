@@ -15,12 +15,13 @@ namespace WindowsFormsApp1
 {
     public partial class searchForClient : Form
     {
-      const  string connectionString = "data source=DESKTOP-T1STQLB;initial catalog=Database1;trusted_connection=true";
+      string connectionString;
         public searchForClient(List <string> clientNames)
         {
             InitializeComponent();
             comboBox1.Items.AddRange(clientNames.ToArray());
             // dateTimePicker1.Value = new DateTime(2000, 1, 1);
+            connectionString = DatabaseConnections.GymDB;
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
