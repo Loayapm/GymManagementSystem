@@ -71,25 +71,24 @@ This project was developed as part of my learning journey in software developmen
   ![Delete Payment](Screenshots/Payments/delete.png)
 
 ### 💸 Payroll Advance
-- **Add Payroll Advance**  
-  ![Add Payroll Advance](Screenshots/Payroll Advance/add1.png)
+- **Add Payroll Advance 1**  
+  ![Add Payroll Advance 1](Screenshots/PayrollAdvance/add1.png)
 - **Add Payroll Advance 2**  
-  ![Add Payroll Advance 2](Screenshots/Payroll Advance/add2.png)
+  ![Add Payroll Advance 2](Screenshots/PayrollAdvance/add2.png)
 - **Delete Payroll Advance**  
-  ![Delete Payroll Advance](Screenshots/Payroll Advance/delete.png)
+  ![Delete Payroll Advance](Screenshots/PayrollAdvance/delete.png)
 - **Payroll Advance Table**  
-  ![Payroll Advance Table](Screenshots/Payroll Advance/table.png)
+  ![Payroll Advance Table](Screenshots/PayrollAdvance/table.png)
 
 ### 🩺 Medical Records
 - **Add Medical Record**  
-  ![Add Medical Record](Screenshots/Medical Records/add.png)
+  ![Add Medical Record](Screenshots/MedicalRecords/add.png)
 - **Edit Medical Record**  
-  ![Edit Medical Record](Screenshots/Medical Records/edit.png)
+  ![Edit Medical Record](Screenshots/MedicalRecords/edit.png)
 - **Delete Medical Record**  
-  ![Delete Medical Record](Screenshots/Medical Records/delete.png)
+  ![Delete Medical Record](Screenshots/MedicalRecords/delete.png)
 - **Medical Records Table**  
-  ![Medical Records Table](Screenshots/Medical Records/table.png)
-
+  ![Medical Records Table](Screenshots/MedicalRecords/table.png)
 ### 🛒 Supplies
 - **Add Supply**  
   ![Add Supply](Screenshots/Supplies/add.png)
