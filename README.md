@@ -15,7 +15,7 @@ This project was developed as part of my learning journey in software developmen
 ### 🔐 Login
 - **Login Screen**  
   ![Login](Screenshots/Login/login1.png)
-- **Login Screen 2**  
+- **Change Password**  
   ![Login](Screenshots/Login/login2.png)
 
 ### 👥 Coaches
