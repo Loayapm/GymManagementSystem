@@ -147,12 +147,6 @@ This project was developed as part of my learning journey in software developmen
 
 ---
 
-## 📸 Screenshots
-
-*(To be added)*
-
----
-
 ## ⚙️ How to Run
 
 1. Clone the repository:
